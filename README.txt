@@ -4,18 +4,10 @@ Sistema de Login y Registro
 
 Tabla de Contenidos
 
-	-Instalación
 	-Uso
 	-Características
 	-Licencia
-
-Instalación
-
-Para instalar el proyecto y todas sus dependencias, ejecuta:
-
-	-git clone https://github.com/your_username/login-register-server.git
-	-cd login-register-server
-	-npm install
+	
 Uso
 
 	-Para iniciar la aplicación, asegúrate de tener una instancia de MongoDB corriendo en tu local y ejecuta: npm start
